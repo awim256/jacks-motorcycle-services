@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jacks-motorcycle-services/static/css/main.1c2c4fff.chunk.css",
+    "main.js": "/jacks-motorcycle-services/static/js/main.b0e52cb0.chunk.js",
+    "main.js.map": "/jacks-motorcycle-services/static/js/main.b0e52cb0.chunk.js.map",
+    "runtime-main.js": "/jacks-motorcycle-services/static/js/runtime-main.9fb96c08.js",
+    "runtime-main.js.map": "/jacks-motorcycle-services/static/js/runtime-main.9fb96c08.js.map",
+    "static/css/2.41953c31.chunk.css": "/jacks-motorcycle-services/static/css/2.41953c31.chunk.css",
+    "static/js/2.c436667e.chunk.js": "/jacks-motorcycle-services/static/js/2.c436667e.chunk.js",
+    "static/js/2.c436667e.chunk.js.map": "/jacks-motorcycle-services/static/js/2.c436667e.chunk.js.map",
+    "static/js/3.be30c8ce.chunk.js": "/jacks-motorcycle-services/static/js/3.be30c8ce.chunk.js",
+    "static/js/3.be30c8ce.chunk.js.map": "/jacks-motorcycle-services/static/js/3.be30c8ce.chunk.js.map",
+    "index.html": "/jacks-motorcycle-services/index.html",
+    "static/css/2.41953c31.chunk.css.map": "/jacks-motorcycle-services/static/css/2.41953c31.chunk.css.map",
+    "static/css/main.1c2c4fff.chunk.css.map": "/jacks-motorcycle-services/static/css/main.1c2c4fff.chunk.css.map",
+    "static/js/2.c436667e.chunk.js.LICENSE.txt": "/jacks-motorcycle-services/static/js/2.c436667e.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/jacks-motorcycle-services/static/media/banner.bf439c2c.jpeg",
+    "static/media/bikeRepair.ede75fe0.jpeg": "/jacks-motorcycle-services/static/media/bikeRepair.ede75fe0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fb96c08.js",
+    "static/css/2.41953c31.chunk.css",
+    "static/js/2.c436667e.chunk.js",
+    "static/css/main.1c2c4fff.chunk.css",
+    "static/js/main.b0e52cb0.chunk.js"
+  ]
+}
