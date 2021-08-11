@@ -1,0 +1,66 @@
+html{
+  scroll-padding-top: 6rem;
+}
+
+@font-face {
+  font-family: sevenswordsmen;
+  src: url("./assets/fonts/SEVESBRG.woff");
+}
+
+
+nav.navbar {
+  height: 6rem !important;
+}
+
+.brand-title {
+  font-family: sevenswordsmen;
+  width: 100%
+}
+
+.hero {
+
+  &-background {
+    background: url("./assets/images/banner.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  &-title-text {
+    font-family: sevenswordsmen;
+    color: orange !important;
+    font-size: 5em !important;
+    padding-top: 1em;
+  }
+}
+
+
+.icon-overflow {
+  overflow: visible
+}
+
+.navbar-start--centered {
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.company-links {
+  margin-left: 0 !important;
+
+  li {
+    list-style: none;
+  }
+}
+
+.contact-info {
+  margin-left: 0 !important;
+
+  .descriptor {
+    color: #363636;
+    font-weight: bold;
+  }
+
+  li {
+    list-style: none;
+  }
+}
